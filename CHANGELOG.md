@@ -2,9 +2,19 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2024-08-01)
+## 0.1.0 (2024-07-27)
+
+<section class="features">
+
+### Features
+
+-   [`86a4ebc`](https://github.com/stdlib-js/stdlib/commit/86a4ebc428071bd60529c554881fbb6dab633cdd) - add `constants/float64/max-safe-nth-factorial` [(#2633)](https://github.com/stdlib-js/stdlib/pull/2633 )
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,7 +22,7 @@
 
 <details>
 
--   [`22c4d29`](https://github.com/stdlib-js/stdlib/commit/22c4d29898e2b5bb4cb071a6b7f62536027eaf28) - **docs:** remove blank line _(by Athan Reines)_
+-   [`86a4ebc`](https://github.com/stdlib-js/stdlib/commit/86a4ebc428071bd60529c554881fbb6dab633cdd) - **feat:** add `constants/float64/max-safe-nth-factorial` [(#2633)](https://github.com/stdlib-js/stdlib/pull/2633 ) _(by Gunj Joshi)_
 
 </details>
 
@@ -26,21 +36,11 @@
 
 A total of 1 person contributed to this release. Thank you to this contributor:
 
--   Athan Reines
+-   Gunj Joshi
 
 </section>
 
 <!-- /.contributors -->
-
-</section>
-
-<!-- /.release -->
-
-<section class="release" id="v0.1.0">
-
-## 0.1.0 (2024-07-27)
-
-No changes reported for this release.
 
 </section>
 
