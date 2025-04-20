@@ -2,6 +2,50 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-04-20)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`a41f30e`](https://github.com/stdlib-js/stdlib/commit/a41f30e05539ab23eaa1b2e9ca7581029ea8b0aa) - correct `FLOAT64_MAX_SAFE_NTH_FACTORIAL`
+
+</section>
+
+<!-- /.bug-fixes -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`a41f30e`](https://github.com/stdlib-js/stdlib/commit/a41f30e05539ab23eaa1b2e9ca7581029ea8b0aa) - **fix:** correct `FLOAT64_MAX_SAFE_NTH_FACTORIAL` _(by Karan Anand)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Karan Anand
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.0">
 
 ## 0.1.0 (2024-07-27)
