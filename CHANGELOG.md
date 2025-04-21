@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-20)
+## Unreleased (2025-04-21)
 
 <section class="bug-fixes">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`70369dc`](https://github.com/stdlib-js/stdlib/commit/70369dce75e32d97f337b26e79fcb5a412acb337) - **docs:** fix examples _(by Karan Anand)_
 -   [`a41f30e`](https://github.com/stdlib-js/stdlib/commit/a41f30e05539ab23eaa1b2e9ca7581029ea8b0aa) - **fix:** correct `FLOAT64_MAX_SAFE_NTH_FACTORIAL` _(by Karan Anand)_
 
 </details>
