@@ -44,7 +44,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import FLOAT64_MAX_SAFE_NTH_FACTORIAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-factorial@deno/mod.js';
+import FLOAT64_MAX_SAFE_NTH_FACTORIAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-factorial@v0.0.1-deno/mod.js';
 ```
 
 #### FLOAT64_MAX_SAFE_NTH_FACTORIAL
@@ -71,7 +71,7 @@ var bool = ( FLOAT64_MAX_SAFE_NTH_FACTORIAL === 18 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT64_MAX_SAFE_NTH_FACTORIAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-factorial@deno/mod.js';
+import FLOAT64_MAX_SAFE_NTH_FACTORIAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-factorial@v0.0.1-deno/mod.js';
 
 function factorial( n ) {
     var a;
